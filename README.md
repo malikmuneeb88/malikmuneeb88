@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://flynn-tech.netlify.app/)
 <h1 align="center">Hi 👋, I'm Malik Muneeb</h1>
-<h3 align="center">A passionate Python developer from Pakistan</h3>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
 
 <img align="right"  alt="Coding"  width="400"  src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg">
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/malikmu88190105" target="blank"><img src="https://img.shields.io/twitter/follow/malikmu88190105?logo=twitter&style=for-the-badge" alt="malikmu88190105" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Frontend**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **mmm906191@gmail.com**
 
@@ -23,7 +23,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.HTML.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a> </p>
+ </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikmuneeb88&show_icons=true&locale=en&layout=compact" alt="malikmuneeb88" /></p>
 
