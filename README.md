@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/malikmu88190105" target="blank"><img src="https://img.shields.io/twitter/follow/malikmu88190105?logo=twitter&style=for-the-badge" alt="malikmu88190105" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **mmm906191@gmail.com**
 
